@@ -10,4 +10,9 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+1.install docker (to check write command `docker -v`) <br>
+2.install git <br>
+3.clone this repo into your pc <br>
+4.open cloned repo path in git bash and write command `docker-compose up` <br>
+5.Now docker will create a local container and run this repo in that.
+
